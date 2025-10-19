@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Explore Japanese manga and anime culture, create your own manga art",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "schedule_details": {
+            "days": ["Wednesday"],
+            "start_time": "15:30",
+            "end_time": "17:00"
+        },
+        "max_participants": 20,
+        "participants": ["sophia@mergington.edu", "emma@mergington.edu"]
     }
 }
 
